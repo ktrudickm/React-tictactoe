@@ -11,3 +11,6 @@ Below is a screenshot exemplifying how this application works. When 3-in-a-row a
 
 <img width="485" alt="Screen Shot 2022-05-26 at 1 41 22 PM" src="https://user-images.githubusercontent.com/77544161/170544977-222d9fe5-360f-4e2c-a86a-1c4b208c73dc.png">
 
+## Usage
+To use, run:
+``npm start``
